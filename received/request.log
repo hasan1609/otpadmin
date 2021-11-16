@@ -1,0 +1,173 @@
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6283182451680
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => (AXIS) Bonus SMS kamu sudah habis. Kirim 1 SMS lagi (Rp 500/sms) untuk mendapatkan BONUS 250 SMS ke semua operator. Info838
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => AXIS
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => Sender: AXIS
+Receiver: "1.01" 083182451680
+SMSC: 628184422559
+SCTS: 21111621573428
+
+Pulsa minimum kamu tidak cukup untuk mengaktifkan paket ini. Isi ulang pulsamu & aktifkan paketnya dgn aplikasi AXISnet atau telp *123#. Info: axis.co.id/LC
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => AXIS
+    [receiver] => 083182450851
+    [port] => 5A
+    [charset] => utf-8
+    [content] => Sender: AXIS
+Receiver: "5.01" 083182450851
+SMSC: 628184422559
+SCTS: 21111621584228
+
+Pulsa minimum kamu tidak cukup untuk mengaktifkan paket ini. Isi ulang pulsamu & aktifkan paketnya dgn aplikasi AXISnet atau telp *123#. Info: axis.co.id/LC
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => Telegram
+    [receiver] => 083182451680
+    [port] => 1A
+    [charset] => utf-8
+    [content] => Sender: Telegram
+Receiver: "1.01" 083182451680
+SMSC: 628184422559
+SCTS: 21111622021228
+
+Telegram code: 41877
+
+You can also tap on this link to log in:
+https://t.me/login/41877
+)
+Array
+(
+    [username] => admin_ok
+    [password] => ok
+    [sender] => 6287771891170
+    [receiver] => 083182450851
+    [port] => 5A
+    [charset] => utf-8
+    [content] => Sender: 6287771891170
+Receiver: "5.01" 083182450851
+SMSC: 628184422557
+SCTS: 21111622064328
+
+Telegram-25859
+)
