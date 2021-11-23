@@ -24,6 +24,7 @@
         })
     })
 </script>
+
 <!-- Modal Edit App -->
 <script>
     $('.modalAppEdit').on('click', function() {
@@ -36,6 +37,22 @@
         $('.modal-body #kodeEdit').val(kode);
         $('.modal-body #namaEdit').val(app);
         $('.modal-body #hargaEdit').val(harga);
+    })
+</script>
+
+<!-- modal edit rek -->
+
+<script>
+    $('.modalRekEdit').on('click', function() {
+        var id = $(this).data('id');
+        var nama = $(this).data('nama');
+        var rek = $(this).data('rek');
+        var bank = $(this).data('bank');
+
+        $('.modal-body #id').val(id);
+        $('.modal-body #namaEdit').val(nama);
+        $('.modal-body #rekEdit').val(rek);
+        $('.modal-body #bankEdit').val(bank);
     })
 </script>
 

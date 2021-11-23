@@ -57,3 +57,8 @@ function hapusprice($id, $mysqli)
     mysqli_query($mysqli, "DELETE FROM price WHERE app = '$id'");
     return mysqli_affected_rows($mysqli);
 }
+function hapusrek($id, $mysqli)
+{
+    mysqli_query($mysqli, "DELETE FROM trx WHERE id = '$id'");
+    return mysqli_affected_rows($mysqli);
+}

@@ -57,6 +57,10 @@
                             <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                             Member
                         </a>
+                        <a class="nav-link" href="../rekening/index.php">
+                            <div class="sb-nav-link-icon"><i class="fas fa-money-check"></i></div>
+                            Rekening
+                        </a>
                     </div>
                 </div>
             </nav>
